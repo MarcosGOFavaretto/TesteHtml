@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <h1>Programa Gerenciador de Vendas</h1>
+    <h1>Nome Da Aplicação</h1>
     <p></p>
 </body>
 </html>
