@@ -6,12 +6,12 @@ No programa são cadastrados as informações do produto (nome e fabricante). No
 ## Tabela de Conteúdo
 
 - [Descrição](#programa-gerenciador-de-vendas)
-- [Pré-requisitos](#pre-requisitos)
+- [Pré-requisitos](#pré-requisitos)
   - [Para Desenvolvedores](#para-desenvolvedores)
-  - [Para Usuários Finais](#para-usuarios-finais)
-- [Construído com](#construido-com)
+  - [Para Usuários Finais](#para-usuários-finais)
+- [Construído com](#construído-com)
 - [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
-- [Versões](#versoes)
+- [Versões](#versões)
 - [Autores](#autores)
 
 ## Pré-requisitos
