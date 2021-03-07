@@ -52,7 +52,7 @@ Demonstrar como realizar a implementação do sistema no ambiente real.
 - JDK 1.8 (Default)
 
 
-## Versão
+## Versões
 
 - [v1.0](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.0)
 - [v1.1](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.1)
