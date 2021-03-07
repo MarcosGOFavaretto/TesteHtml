@@ -54,14 +54,16 @@ Demonstrar como realizar a implementação do sistema no ambiente real.
 
 ## Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto).
+-[v1.0](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.0).
+-[v1.1](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.1).
+-[v1.2](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.2).
 
 ## Autores
 
 Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
-- **Um desenvolvedor** - _Trabalho Inicial_ - [umdesenvolvedor](https://github.com/linkParaPerfil)
-- **Fulano De Tal** - _Documentação_ - [fulanodetal](https://github.com/linkParaPerfil)
+- **Marcos Gabriel de Oliveira Favaretto** - _Desenvolvedimento_ - [MarcosGOFavaretto](https://github.com/MarcosGOFavaretto)
+- **Gian Dácio de Oliveira Favaretto** - _Documentação_ - [GianOliveiraFavaretto](https://github.com/GianOliveiraFavaretto)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
 
