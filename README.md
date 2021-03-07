@@ -46,6 +46,12 @@ Demonstrar como realizar a implementação do sistema no ambiente real.
 - [SQLite Studio v3.2.1](https://sqlitestudio.pl) - O Sistema Gerenciador de Banco de Dados (SGBD) utilizado para gerenciar o banco de dados do projeto
 - [Git Bash v2.30.0](https://gitforwindows.org/) - O sistema de controle de versões utilizado no desenvolvimento do projeto
 
+### Bibliotecas Utilizadas:
+- sqlite-jdbc-3.7.2.jar
+- itextpdf-5.5.13.2.jar
+- JDK 1.8 (Default)
+
+
 ## Versão
 
 Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto).
