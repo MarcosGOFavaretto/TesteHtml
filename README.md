@@ -54,9 +54,9 @@ Demonstrar como realizar a implementação do sistema no ambiente real.
 
 ## Versão
 
--[v1.0](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.0).
--[v1.1](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.1).
--[v1.2](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.2).
+- [v1.0](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.0)
+- [v1.1](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.1)
+- [v1.2](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.2)
 
 ## Autores
 
