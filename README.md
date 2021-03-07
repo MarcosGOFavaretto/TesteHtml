@@ -6,8 +6,13 @@ No programa são cadastrados as informações do produto (nome e fabricante). No
 ## Tabela de Conteúdo
 
 - [Descrição](#programa-gerenciador-de-vendas)
-- [Tópico 1](#pre-requisitos)
-  - [Tópico 1](#pre-requisitos)
+- [Pré-requisitos](#pre-requisitos)
+  - [Para Desenvolvedores](#para-desenvolvedores)
+  - [Para Usuários Finais](#para-usuarios-finais)
+- [Construído com](#construido-com)
+- [Bibliotecas Utilizadas](#bibliotecas-utilizadas)
+- [Versões](#versoes)
+- [Autores](#autores)
 
 ## Pré-requisitos
 
@@ -24,18 +29,6 @@ No programa são cadastrados as informações do produto (nome e fabricante). No
 - **Sistema Operacional**: Microsoft® Windows 10® ou Windows 7®. _OBS_: Usar a versão em 64 bits para máquinas com memória RAM instalada maior que 4 GB;
 - **Espaço em Disco Livre**:;
 - **Programas de Terceiros**: Possuir o Java 8® instalado na máquina. Consultar requisitos do [Java](https://www.java.com/pt-BR/download/help/sysreq.html);
-
-## Instalação
-
-Ensinar, passo a passo como ter acesso ao sistema para desenvolvedores e usuários.
-
-## Demontração
-
-Demonstrar e explicar o sistema funcionando através de gifs
-
-## Implementação
-
-Demonstrar como realizar a implementação do sistema no ambiente real.
 
 ## Construído com
 
@@ -57,13 +50,10 @@ Demonstrar como realizar a implementação do sistema no ambiente real.
 
 ## Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 - **Marcos Gabriel de Oliveira Favaretto** - _Desenvolvedimento_ - [MarcosGOFavaretto](https://github.com/MarcosGOFavaretto)
 - **Gian Dácio de Oliveira Favaretto** - _Documentação_ - [GianOliveiraFavaretto](https://github.com/GianOliveiraFavaretto)
 
-Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
-
+<!--
 ## TÓPICOS PARA ADICINAR NO README:
 
 - Logo
@@ -71,3 +61,15 @@ Você também pode ver a lista de todos os [colaboradores](https://github.com/us
 - Status do projeto
 - Features
 - Licença
+
+## Instalação
+
+Ensinar, passo a passo como ter acesso ao sistema para desenvolvedores e usuários.
+
+## Demontração
+
+Demonstrar e explicar o sistema funcionando através de gifs
+
+## Implementação
+
+Demonstrar como realizar a implementação do sistema no ambiente real. -->
