@@ -46,3 +46,10 @@ Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 - **Fulano De Tal** - _Documentação_ - [fulanodetal](https://github.com/linkParaPerfil)
 
 Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+
+## TÓPICOS PARA ADICINAR NO README:
+- Logo
+- Badges
+- Status do projeto
+- Features
+- Licença
