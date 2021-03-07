@@ -7,11 +7,7 @@ Descrição do projeto
 <!--ts-->
 
 - [Nome a ser exibido](#link)
-  - [Pre Requisitos](#pre-requisitos)
-  - [Local files](#local-files)
-  - [Remote files](#remote-files)
-  - [Multiple files](#multiple-files)
-  - [Combo](#combo)
+  - [Tópico 1](#link)
   <!--te-->
 
 ## Pré-requisitos
