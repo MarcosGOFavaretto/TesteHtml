@@ -1,6 +1,14 @@
-# Nome do projeto
+# Programa Gerenciador de Vendas - PGDV
 
-Descrição do projeto
+Este programa tem como objetivo o gerenciamento de vendas de um e-commerce.
+No programa são cadastrados as informações do produto (nome e fabricante).
+No momento de realizar o registro da venda, ao passar os produtos pelo leitor
+de código de barras, é gerada uma tabela no formato PDF informando os dados dos
+produtos (nome do objeto, marca e quantidade) vendidos e o nome do cliente
+informado pelo usuário. O documento no formato PDF pode ou não ser impresso,
+a depender da escolha do usuário, bem como há a possibilidade de inserção
+manual dos produtos, ou seja, inseri-los sem antes estarem cadastrados no banco
+de dados do programa.
 
 ## Tabela de Conteudo
 
@@ -10,9 +18,11 @@ Descrição do projeto
   - [Tópico 1](#link)
   <!--te-->
 
-## Pré-requisitos
-
-Definir o que é preciso para que se possa executar como usuário e como desenvolvedor
+## Pré-requisitos 
+### Para Desenvolvedores:
+• Sistema Operacional: Microsoft® Windows 10® ou Windows 7®, de preferência a versão em 64 bits
+• Memória RAM: No mínimo 4 GB.
+• Possuir o Java SDK 8 instalado na máquina
 
 ## Instalação
 
