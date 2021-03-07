@@ -20,9 +20,9 @@ de dados do programa.
 
 ## Pré-requisitos 
 ### Para Desenvolvedores:
-• Sistema Operacional: Microsoft® Windows 10® ou Windows 7®, de preferência a versão em 64 bits
-• Memória RAM: No mínimo 4 GB.
-• Possuir o Java SDK 8 instalado na máquina
+- Sistema Operacional: Microsoft® Windows 10® ou Windows 7®, de preferência a versão em 64 bits
+- Memória RAM: No mínimo 4 GB.
+- Possuir o Java SDK 8 instalado na máquina
 
 ## Instalação
 
