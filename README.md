@@ -45,6 +45,7 @@ No programa são cadastradas as informações do produto (nome e fabricante). No
 ## Versões
 
 - [v1.0](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.0)
+  - Descrição
 - [v1.1](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.1)
 - [v1.2](https://github.com/MarcosGOFavaretto/ProgramaGerenciadorDeVendas/releases/tag/V1.2)
 
